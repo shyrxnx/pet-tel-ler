@@ -1,0 +1,21 @@
+5
+Weekend Retreat Package
+2
+Treat your pet to a weekend getaway with a two-day stay at our facility. Includes comfortable accommodation, feeding, and supervised playtime.
+1500
+Extended Vacation Package
+5
+Planning a longer trip? Opt for our extended vacation package, offering a five-day stay for your pet. Includes spacious accommodations, premium meals, and plenty of playtime.
+3500
+Stay & Play Bundle
+10
+For pet owners who want the ultimate experience for their pets! Includes luxurious accommodations, personalized meals, daily grooming sessions, and unlimited playtime.
+9500
+Daycare Delight
+1
+Perfect for a busy day, our Daycare Delight package offers a full day of care for your pet. Includes playtime, feeding, and rest periods.
+750
+Holiday Haven
+7
+Going on a holiday? Leave your pet in our care with the Holiday Haven package. Includes a week-long stay with luxury accommodations, gourmet meals, daily exercise, and grooming sessions.
+4500
